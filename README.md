@@ -1,24 +1,7 @@
-# README
+# 旅行相簿
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+管理相片小工具(可新增, 上傳, 更新及刪除), 亦可於相片總表瀏覽及查看單張相片
 
-Things you may want to cover:
+使用ruby on rails, html, css建置
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
